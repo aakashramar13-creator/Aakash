@@ -1,1 +1,1 @@
-# Aakash
+study and analysis of material removal rate in conventional lathe machine different work piece copper, aluminium, mild steel 
